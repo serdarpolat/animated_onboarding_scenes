@@ -1,7 +1,7 @@
 # Screen
 ### Click on screenshot to watch Youtube video
 
-[![IMAGE ALT TEXT HERE](onboarding1080.gif)](https://youtu.be/IVO7j-Tum5U)
+[![IMAGE ALT TEXT HERE](onboarding1080.gif)](https://youtu.be/GvMlCbKaSTs)
 
 ## Getting Started
 
